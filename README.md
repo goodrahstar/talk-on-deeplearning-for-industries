@@ -16,3 +16,4 @@ Also a Colab Notebook to practice the word2vec model with t-SNE plotting and Ten
 |[slides](https://github.com/goodrahstar/talk-on-deeplearning-and-word2vec/blob/master/Deep%20Learning%20for%20Industries.pdf) |
 [codelab](https://goo.gl/7H7mVo) |
 
+<a href="https://tracking.gitads.io/?repo=draw-neural-network/"> Check out<img src="https://images.gitads.io/draw-neural-network/" alt=“GitAds”/> </a>
